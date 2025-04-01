@@ -1,0 +1,6 @@
+# Crea un programa que implemente el Cifrado César, un método simple de cifrado por desplazamiento.  
+# El programa debe:  
+# - Pedir un mensaje y una clave de desplazamiento. ✅  
+# - Cifrar el mensaje desplazando cada letra. ✅    
+# - Poder descifrar el mensaje con la clave correcta. ✅  
+# Extra: Permitir cifrar caracteres especiales y números sin alterarlos.
